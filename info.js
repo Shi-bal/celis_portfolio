@@ -129,7 +129,7 @@ let info = {
       github: "",
       visit: "",
       description:
-        ""
+        "A sleek weather app providing real-time forecasts and local weather updates at a glance. Designed for quick, easy access to essential weather information, helping users stay prepared for any conditions."
     },
     
   ],
